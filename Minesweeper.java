@@ -1,5 +1,3 @@
-package minesweeper;
-
 import javax.swing.*;
 import javax.swing.Timer;
 
